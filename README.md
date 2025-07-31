@@ -20,7 +20,7 @@ This project demonstrates how to convert speech from an audio file into text usi
 
 1. Clone the repository:
 ```bash                                                                                                                                                             
-git clone https://github.com/your-username/speech-to-text-transcription.git
+https://github.com/Nivetha0508-tech/Speech-To-Text-Transcription.git
 
 2. Install dependencies:
 
